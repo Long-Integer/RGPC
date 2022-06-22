@@ -1,2 +1,2 @@
 # RGPC
-Random Generated Proxy Checker | Multi Threaded
+Multi Threaded Random Generated Proxy Checker
